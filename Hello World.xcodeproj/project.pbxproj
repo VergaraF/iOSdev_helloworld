@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					D813324D1CD1C57100E1642F = {
 						CreatedOnToolsVersion = 7.3;
+						DevelopmentTeam = DZ2LJDS532;
 					};
 				};
 			};
@@ -252,6 +253,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = "Hello World/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.fvergara.Hello-World";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -266,6 +268,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = "Hello World/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.fvergara.Hello-World";
 				PRODUCT_NAME = "$(TARGET_NAME)";
